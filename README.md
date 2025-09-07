@@ -11,7 +11,12 @@ Fanout is a hard problem which is amplified by scale.
 ## Links
 ### Profiling and Benchmarking
 [async-profiler](https://github.com/async-profiler/async-profiler)
+
 [jmh]((https://github.com/openjdk/jmh)
+
+Get prebuilt hsdis from [here](https://chriswhocodes.com/hsdis/). For perfasm.
+
+For bite sized, but very high quality content on jvm anatomy - [jvm anatomy quarks](https://shipilev.net/jvm/anatomy-quarks/)
 
 ### Vectorization
 Initial [PR](https://github.com/apache/lucene/pull/12311) in Lucene.
