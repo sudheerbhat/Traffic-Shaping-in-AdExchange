@@ -5,6 +5,7 @@ Can find me on [Twitter](https://x.com/sudheerbhat) and [Bluesky](https://bsky.a
 
 ## Notes
 Fanout is a hard problem which is amplified by scale.
+
 [Blog](https://technology.inmobi.com/articles/2025/04/04/dsp-routing-dilemma-balancing-qps-constraints-and-profitability-at-scale) on Inmobi Technology page is a good introduction.
 
 ## Links
