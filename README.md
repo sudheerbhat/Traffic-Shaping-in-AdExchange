@@ -12,7 +12,7 @@ Fanout is a hard problem which is amplified by scale.
 ### Profiling and Benchmarking
 [async-profiler](https://github.com/async-profiler/async-profiler)
 
-java micro harness [jmh]((https://github.com/openjdk/jmh)
+Java Microbenchmark Harness [JMH](https://github.com/openjdk/jmh)
 
 Get prebuilt hsdis from [here](https://chriswhocodes.com/hsdis/). For perfasm.
 
